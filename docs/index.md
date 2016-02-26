@@ -1,5 +1,5 @@
 # nVotes User Guide
-![alt text](http://nvotes.com/wp-content/uploads/ES-Ayuda-1024x531.png)
+![alt text](https://nvotes.com/wp-content/uploads/ES-Ayuda-1024x531.png)
 
 This guide explains how to use nVotes to do an Election.
 
