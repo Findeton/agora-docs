@@ -15,7 +15,7 @@ copyright: 'GNU GPL 3.0 Copyright (c) 2016 Agora Voting'
 docs_dir: 'docs'
 theme: 'material'
 
-# Pages 
+# Pages
 pages:
 - How to use nVotes: index.md
 - User types: user-types.md
