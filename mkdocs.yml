@@ -1,0 +1,40 @@
+# Project information
+site_name: nVotes documentation
+site_description: 'A short description of my project'
+site_author: 'Felix Robles'
+site_url: 'https://github.com/Findeton/agora-docs'
+
+# Repository
+repo_name: 'GitHub'
+repo_url: 'https://github.com/Findeton/agora-docs'
+
+# Copyright
+copyright: 'GNU GPL 3.0 Copyright (c) 2016 Agora Voting'
+
+# Documentation and theme
+docs_dir: 'docs'
+theme: 'material'
+
+# Options
+extra:
+  version: '0.1.0'
+  logo: 'images/logo.png'
+  palette:
+    primary: 'indigo'
+    accent: 'light blue'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+  i18n:
+    prev: 'Previous'
+    next: 'Next'
+  author:
+    github: 'my-github-handle'
+    twitter: 'my-twitter-handle'
+
+# Extensions
+markdown_extensions:
+  - codehilite(css_class=code)
+  - admonition
+  - toc:
+      permalink: '¶'
