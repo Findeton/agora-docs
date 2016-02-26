@@ -15,9 +15,27 @@ copyright: 'GNU GPL 3.0 Copyright (c) 2016 Agora Voting'
 docs_dir: 'docs'
 theme: 'material'
 
+# Pages
+pages:
+- How to use nVotes: index.md
+- User types: user-types.md
+- Admin account creation: admin-account-creation.md
+- Admin console: admin-console.md
+- Election creation:
+    - Basic details: election-creation/basic-details.md
+    - Questions: election-creation/questions.md
+    - Authentication: election-creation/authentication.md
+    - Census configuration: election-creation/census-configuration.md
+    - Census data: election-creation/census-data.md
+    - Create election: election-creation/create-election.md
+- Elections management: elections-management.md
+- FAQ: faq.md
+- Sending SMS: sending-sms.md
+- Unsupported tally systems and vote list extraction: unsupported-tally-systems.md
+
 # Options
 extra:
-  version: '0.1.0'
+#  version: '0.1.0'
   logo: 'images/logo.png'
   palette:
     primary: 'indigo'

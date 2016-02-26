@@ -1,0 +1,5 @@
+[//]: # (<img alt=' src='http://bit.ly/avguiadeuso/SpgFIPIGpVDXggO0Kf_-S1gzfpOmxr0cquN-ZbbKo91_dbONbjdTUK9d4CDfGG0Po5M179s8vzTZmrWdh5-0q_fwF_RU36DEZBTD7tHpHyVgT_gttanXuCJUJye6vax3OOeco3c' style='width: 624.00px; height: 305.33px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);' title='>)
+
+In an election, the administrador, before the election is started, can load a list of voters from a [CSV file](http://es.wikipedia.org/wiki/CSV) (with the fields specified for the census in the previous step, if they were added, and which must appear in the CSV file in the same order and separated by a semicolon). It is very important that the administrator checks that the 'email' or 'tlf' fields are correct (for example, that there are no spaces or forbidden characters etc) to have the certainty that all voters receive their message inviting them to vote.
+
+Once the election has started, the administrator will be able to send a message (via email or SMS) to all voters inviting them to vote.
